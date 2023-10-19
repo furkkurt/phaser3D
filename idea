@@ -1,0 +1,7 @@
+keep referances to views in an array of 4
+change the current view on keypress
+
+how to store data of the map?
+It would be cool to keep it in an array with symbols, would be easy to generate
+we can keep the player location as a different symbol and somehow take the data from that array altogether and put whats visible to the screen
+
